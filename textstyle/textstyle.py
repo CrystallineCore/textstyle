@@ -9,7 +9,7 @@ Example:
     >>> print(ts.format("An <error>error</error> occurred"))
 """
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 import sys
 import os
