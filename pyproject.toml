@@ -1,7 +1,7 @@
 [project]
 name = "textstyle"
-version = "1.0.0"
-description = "textstyle: A production-ready, high-performance file utility tailored for Linux — with smart copy/move, hashing, filters, undo/redo, and conflict resolution."
+version = "1.0.1"
+description = "Textstyle is a lightweight Python library that makes terminal text styling effortless. With support for colors, backgrounds, text styles, and an intuitive markup format, you can create beautiful CLI applications with just a few lines of code."
 readme = "README.md"
 license = {text = "MIT"}
 authors = [
